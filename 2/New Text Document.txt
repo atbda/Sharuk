@@ -1,0 +1,1 @@
+how to convert System.out.println();  dependency injection here fixed msg print in fixed destination but by using interface we will achieve DI 
